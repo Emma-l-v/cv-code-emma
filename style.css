@@ -1,0 +1,111 @@
+*
+{
+  font-family: "Times New Roman", "Courier New", Georgia, Arial,Verdana, Sérif;
+}
+
+body 
+{
+  background-color: white;
+  padding: 5px 25px;
+  font-size: 16px;
+  margin: 0;
+  color: #444;
+}
+
+h1
+{
+  color: black;
+  font-weight: bold;
+} 
+
+
+#main
+{
+  background-color: rgb(190, 71, 80);
+  height: 100%;
+  font-size: 16px;
+  color:#fff
+}
+
+#nav, #content
+{
+  float: left;
+  padding: 5%;
+}
+
+#nav
+{
+  width: 30%;
+}
+
+#content
+{
+  background-color: white;
+  width: 50%;
+  color: black;
+}
+
+.clearfix
+{
+  clear: both;
+}
+
+.intro
+{
+  color: white;
+  font-size: 20px;
+  text-shadow: 2px 2px 4px black;
+  border: 12px solid;
+  border-color: rgb(255, 128, 128);
+  background-color: rgb(255, 128, 128);
+  padding: 12px;
+}
+
+.flotte
+{
+  float: left;
+  border: 12px solid;
+  border-color: rgb(255, 128, 128);
+  background-color: rgb(255, 128, 128);
+  padding: 12px;
+  margin: 25px; 
+}
+
+.liste
+{
+  color: white;
+}
+
+.bold
+{
+  font-weight: bold;
+}
+
+.ligne
+{
+  text-decoration: underline;
+  text-align: left;
+}
+
+.description
+{
+  font-size: medium;
+  font-style: italic;
+  opacity: 0.8;
+  text-align: left;
+}
+
+span
+{
+  font-weight: bold;
+}
+
+em
+{
+  color: rgb(255, 128, 128);
+}
+
+.ecole
+{
+  color: rgb(190, 71, 80);
+}
